@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HyG/Q8CA9QMHa4L22h3duPPWXppgMgWW2fiPmu23gGI=",
+  "Hash": "k6rUWLv46Iw5vilNve2UWWB2YrkjNNUlfpRY0fpOmP0=",
   "Source": "asp",
   "BasePath": "_content/asp",
   "Mode": "Default",
@@ -168,6 +168,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Pages\\html\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\images\\blog-girl.jpg",
+      "SourceId": "asp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
+      "BasePath": "_content/asp",
+      "RelativePath": "Pages/images/blog-girl.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pages\\images\\blog-girl.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\images\\contact-img.jpg",
+      "SourceId": "asp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
+      "BasePath": "_content/asp",
+      "RelativePath": "Pages/images/contact-img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pages\\images\\contact-img.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\about.js",

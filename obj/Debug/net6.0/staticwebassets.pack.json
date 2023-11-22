@@ -37,6 +37,14 @@
       "PackagePath": "staticwebassets\\Pages\\html\\index.html"
     },
     {
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\images\\blog-girl.jpg",
+      "PackagePath": "staticwebassets\\Pages\\images\\blog-girl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\images\\contact-img.jpg",
+      "PackagePath": "staticwebassets\\Pages\\images\\contact-img.jpg"
+    },
+    {
       "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\about.js",
       "PackagePath": "staticwebassets\\Pages\\javaScript\\about.js"
     },
