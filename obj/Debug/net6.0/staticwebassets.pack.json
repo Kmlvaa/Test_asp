@@ -1,72 +1,60 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\css\\about.css",
-      "PackagePath": "staticwebassets\\Pages\\css\\about.css"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\css\\about.css",
+      "PackagePath": "staticwebassets\\WebPages\\css\\about.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\css\\blog.css",
-      "PackagePath": "staticwebassets\\Pages\\css\\blog.css"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\css\\blog.css",
+      "PackagePath": "staticwebassets\\WebPages\\css\\blog.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\css\\common.css",
-      "PackagePath": "staticwebassets\\Pages\\css\\common.css"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\css\\common.css",
+      "PackagePath": "staticwebassets\\WebPages\\css\\common.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\css\\contact.css",
-      "PackagePath": "staticwebassets\\Pages\\css\\contact.css"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\css\\contact.css",
+      "PackagePath": "staticwebassets\\WebPages\\css\\contact.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\css\\style.css",
-      "PackagePath": "staticwebassets\\Pages\\css\\style.css"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\css\\style.css",
+      "PackagePath": "staticwebassets\\WebPages\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\html\\about.html",
-      "PackagePath": "staticwebassets\\Pages\\html\\about.html"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\images\\blog-girl-removebg-preview.png",
+      "PackagePath": "staticwebassets\\WebPages\\images\\blog-girl-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\html\\blog.html",
-      "PackagePath": "staticwebassets\\Pages\\html\\blog.html"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\images\\blog-girl.jpg",
+      "PackagePath": "staticwebassets\\WebPages\\images\\blog-girl.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\html\\contact.html",
-      "PackagePath": "staticwebassets\\Pages\\html\\contact.html"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\images\\contact-img.jpg",
+      "PackagePath": "staticwebassets\\WebPages\\images\\contact-img.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\html\\index.html",
-      "PackagePath": "staticwebassets\\Pages\\html\\index.html"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\about.js",
+      "PackagePath": "staticwebassets\\WebPages\\javaScript\\about.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\images\\blog-girl.jpg",
-      "PackagePath": "staticwebassets\\Pages\\images\\blog-girl.jpg"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\blog.js",
+      "PackagePath": "staticwebassets\\WebPages\\javaScript\\blog.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\images\\contact-img.jpg",
-      "PackagePath": "staticwebassets\\Pages\\images\\contact-img.jpg"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\common.js",
+      "PackagePath": "staticwebassets\\WebPages\\javaScript\\common.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\about.js",
-      "PackagePath": "staticwebassets\\Pages\\javaScript\\about.js"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\contact.js",
+      "PackagePath": "staticwebassets\\WebPages\\javaScript\\contact.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\blog.js",
-      "PackagePath": "staticwebassets\\Pages\\javaScript\\blog.js"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\data.js",
+      "PackagePath": "staticwebassets\\WebPages\\javaScript\\data.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\common.js",
-      "PackagePath": "staticwebassets\\Pages\\javaScript\\common.js"
-    },
-    {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\contact.js",
-      "PackagePath": "staticwebassets\\Pages\\javaScript\\contact.js"
-    },
-    {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\data.js",
-      "PackagePath": "staticwebassets\\Pages\\javaScript\\data.js"
-    },
-    {
-      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\script.js",
-      "PackagePath": "staticwebassets\\Pages\\javaScript\\script.js"
+      "Id": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\script.js",
+      "PackagePath": "staticwebassets\\WebPages\\javaScript\\script.js"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.asp.Microsoft.AspNetCore.StaticWebAssets.props",

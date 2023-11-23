@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k6rUWLv46Iw5vilNve2UWWB2YrkjNNUlfpRY0fpOmP0=",
+  "Hash": "33na3tHnFKbozt1AoMrQXy+NuAABpo5e3LujV9LjwEA=",
   "Source": "asp",
   "BasePath": "_content/asp",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\css\\about.css",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\css\\about.css",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/css/about.css",
+      "RelativePath": "WebPages/css/about.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,15 +31,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\css\\about.css"
+      "OriginalItemSpec": "wwwroot\\WebPages\\css\\about.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\css\\blog.css",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\css\\blog.css",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/css/blog.css",
+      "RelativePath": "WebPages/css/blog.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\css\\blog.css"
+      "OriginalItemSpec": "wwwroot\\WebPages\\css\\blog.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\css\\common.css",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\css\\common.css",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/css/common.css",
+      "RelativePath": "WebPages/css/common.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\css\\common.css"
+      "OriginalItemSpec": "wwwroot\\WebPages\\css\\common.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\css\\contact.css",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\css\\contact.css",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/css/contact.css",
+      "RelativePath": "WebPages/css/contact.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\css\\contact.css"
+      "OriginalItemSpec": "wwwroot\\WebPages\\css\\contact.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\css\\style.css",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\css\\style.css",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/css/style.css",
+      "RelativePath": "WebPages/css/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\css\\style.css"
+      "OriginalItemSpec": "wwwroot\\WebPages\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\html\\about.html",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\images\\blog-girl.jpg",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/html/about.html",
+      "RelativePath": "WebPages/images/blog-girl.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\html\\about.html"
+      "OriginalItemSpec": "wwwroot\\WebPages\\images\\blog-girl.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\html\\blog.html",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\images\\blog-girl-removebg-preview.png",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/html/blog.html",
+      "RelativePath": "WebPages/images/blog-girl-removebg-preview.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\html\\blog.html"
+      "OriginalItemSpec": "wwwroot\\WebPages\\images\\blog-girl-removebg-preview.png"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\html\\contact.html",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\images\\contact-img.jpg",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/html/contact.html",
+      "RelativePath": "WebPages/images/contact-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\html\\contact.html"
+      "OriginalItemSpec": "wwwroot\\WebPages\\images\\contact-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\html\\index.html",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\about.js",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/html/index.html",
+      "RelativePath": "WebPages/javaScript/about.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\html\\index.html"
+      "OriginalItemSpec": "wwwroot\\WebPages\\javaScript\\about.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\images\\blog-girl.jpg",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\blog.js",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/images/blog-girl.jpg",
+      "RelativePath": "WebPages/javaScript/blog.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\images\\blog-girl.jpg"
+      "OriginalItemSpec": "wwwroot\\WebPages\\javaScript\\blog.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\images\\contact-img.jpg",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\common.js",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/images/contact-img.jpg",
+      "RelativePath": "WebPages/javaScript/common.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\images\\contact-img.jpg"
+      "OriginalItemSpec": "wwwroot\\WebPages\\javaScript\\common.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\about.js",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\contact.js",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/javaScript/about.js",
+      "RelativePath": "WebPages/javaScript/contact.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\javaScript\\about.js"
+      "OriginalItemSpec": "wwwroot\\WebPages\\javaScript\\contact.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\blog.js",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\data.js",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/javaScript/blog.js",
+      "RelativePath": "WebPages/javaScript/data.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\javaScript\\blog.js"
+      "OriginalItemSpec": "wwwroot\\WebPages\\javaScript\\data.js"
     },
     {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\common.js",
+      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\WebPages\\javaScript\\script.js",
       "SourceId": "asp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
       "BasePath": "_content/asp",
-      "RelativePath": "Pages/javaScript/common.js",
+      "RelativePath": "WebPages/javaScript/script.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,58 +252,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\javaScript\\common.js"
-    },
-    {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\contact.js",
-      "SourceId": "asp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
-      "BasePath": "_content/asp",
-      "RelativePath": "Pages/javaScript/contact.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\javaScript\\contact.js"
-    },
-    {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\data.js",
-      "SourceId": "asp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
-      "BasePath": "_content/asp",
-      "RelativePath": "Pages/javaScript/data.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\javaScript\\data.js"
-    },
-    {
-      "Identity": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\Pages\\javaScript\\script.js",
-      "SourceId": "asp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\source\\repos\\asp\\asp\\wwwroot\\",
-      "BasePath": "_content/asp",
-      "RelativePath": "Pages/javaScript/script.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Pages\\javaScript\\script.js"
+      "OriginalItemSpec": "wwwroot\\WebPages\\javaScript\\script.js"
     }
   ]
 }

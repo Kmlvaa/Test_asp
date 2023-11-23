@@ -1,0 +1,176 @@
+﻿@page
+
+@functions {
+    public void Onget()
+    {
+        ViewData["Title"] = "Contact";
+    }
+}
+
+@section Css{
+    <link rel="stylesheet" href="/WebPages/css/contact.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+          integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+}
+
+<section id="Hero">
+    <div class="circle-image">
+        <img class="paralax"
+             src="/WebPages/images/contact-img.jpg"
+             alt="Blog" />
+    </div>
+    <div class="container">
+        <p>
+            <a class="gold" href="index.html">Home</a>
+            <span class="stick"> </span>
+            <span>Contact</span>
+        </p>
+        <div class="content">
+            <h1>Contact</h1>
+        </div>
+    </div>
+</section>
+
+<!-- contact container -->
+<div class="container">
+    <div class="contact-row">
+        <div class="part">
+            <h4>Address</h4>
+            <p>
+                13/25 New Avenue<br />New Heaven, 45Y 73J<br />England,
+                <strong>Great Britain</strong>
+            </p>
+        </div>
+        <div class="part">
+            <h4>Call center</h4>
+            <p>
+                Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            </p>
+            <p><strong>+33 555 444 333</strong></p>
+        </div>
+        <div class="part">
+            <h4>Electronic support</h4>
+            <p>
+                Please feel free to write an email to us or to use our electronic
+                ticketing system.
+            </p>
+            <ul class="list-unstyled text-muted">
+                <li>info@varkala.com</li>
+                <li>support@varkala.com</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- map -->
+<div class="map">
+    <section id="Location">
+        <div class="row">
+            <div class="col-lg-6 pr-0">
+                <div id="map"></div>
+            </div>
+            <div class="col-lg-6 stores">
+                <h2>Our stores</h2>
+                <div class="row">
+                    <div class="col-lg-3 pr-0 col-6">
+                        <h4>New York</h4>
+                    </div>
+                    <div class="col-lg-3 col-6">13/25 New Avenue, New Heaven, 45Y 73J</div>
+                    <div class="col-lg-3 col-6">564546 54566 54</div>
+                    <div class="col-lg-3 col-6">email@email.com</div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-6">
+                        <h4>London</h4>
+                    </div>
+                    <div class="col-lg-3 col-6">13/25 New Avenue, New Heaven, 45Y 73J</div>
+                    <div class="col-lg-3 col-6">564546 54566 54</div>
+                    <div class="col-lg-3 col-6">email@email.com</div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-6">
+                        <h4>Paris</h4>
+                    </div>
+                    <div class="col-lg-3 col-6">13/25 New Avenue, New Heaven, 45Y 73J</div>
+                    <div class="col-lg-3 col-6">564546 54566 54</div>
+                    <div class="col-lg-3 col-6">email@email.com</div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-6">
+                        <h4>Tokyo</h4>
+                    </div>
+                    <div class="col-lg-3 col-6">13/25 New Avenue, New Heaven, 45Y 73J</div>
+                    <div class="col-lg-3 col-6">564546 54566 54</div>
+                    <div class="col-lg-3 col-6">email@email.com</div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<!-- contact  -->
+<section class="py-6">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <h5>Get in touch</h5>
+                <ul class="list-inline h3 mb-6 mb-lg-0">
+                    <li class="list-inline-item mr-4"><a href="#"><i class="fab fa-facebook-f"> </i></a></li>
+                    <li class="list-inline-item mr-4"><a href="#"><i class="fab fa-twitter">                                      </i></a></li>
+                    <li class="list-inline-item mr-4"><a href="#"><i class="fab fa-instagram">                                      </i></a></li>
+                </ul>
+            </div>
+            <div class="col-lg-8 col-xl-6 ml-auto">
+                <form class="form" id="contact-form" method="post" action="contact.php"></form>
+                <div class="row">
+                    <div class="form-group">
+                        <label class="form-label" for="nameContact">Your firstname *</label>
+                        <input class="form-control form-control-underlined" type="text" name="nameContact" id="name" required="required">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="surnameContact">Your lastname *</label>
+                        <input class="form-control form-control-underlined" type="text" name="surnameContact" id="surname" required="required">
+
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="emailContact">Your email *</label>
+                    <input class="form-control form-control-underlined" type="email" name="emailContact" id="email" required="required">
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="messageContact">Your message for us *</label>
+                    <textarea class="form-control form-control-underlined" rows="4" name="messageContact" id="message" required="required"></textarea>
+                </div>
+                <button class="btn btn-outline-primary mt-3" type="submit">SEND MESSAGE                    </button>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts{
+    <script src="/WebPages/javaScript/contact.js" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+            crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+            crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    @* <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script> *@
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+            crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+}
+
